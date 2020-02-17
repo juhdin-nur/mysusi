@@ -1,0 +1,3 @@
+rencana pembuatan database
+- membuat design awal database
+- membuat model data pada codeigniter
